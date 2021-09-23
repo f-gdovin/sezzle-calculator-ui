@@ -1,0 +1,14 @@
+.full-width {
+    font-size: 4em !important;
+    height: 2em;
+    width: 100%;
+    flex-grow: 1;
+}
+
+.full-height {
+    height: 100%;
+}
+
+.pointy {
+    cursor: pointer;
+}

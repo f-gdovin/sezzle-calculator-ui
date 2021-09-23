@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Header component that looks as expected 1`] = `
+<svg
+  className="pointy"
+  height="5em"
+  onClick={[Function]}
+  preserveAspectRatio="xMinYMin"
+>
+  logo.svg
+</svg>
+`;
